@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Rona Davis	
+	Date: April 5, 2018
 */
 
 public class P5_PayProgram {
